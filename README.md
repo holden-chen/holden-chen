@@ -10,5 +10,5 @@ Salesforce Admin/Developer, Software Engineer. I work mainly with JavaScript and
 
 # Salesforce
 
-I work as a Salesforce Admin/Developer, and bring a software engineering approach to the ecosystem. I'm currently exploring DevOps practices, open-source tooling, and integrations.
+I work as a Salesforce Admin/Developer, bringing a software engineering approach to the ecosystem. I'm currently exploring DevOps practices, open-source tooling, and integrations.
 
