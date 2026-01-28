@@ -1,6 +1,6 @@
 # Holden Chen
 
-Fullstack developer. I work mainly with C#/.NET and Python, and I enjoy learning go in my free time.
+Fullstack developer. I work mainly with C#/.NET and Python, and I enjoy learning Go in my free time.
 
 # Places Online You Can Find Me
 
